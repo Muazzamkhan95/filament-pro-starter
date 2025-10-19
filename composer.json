@@ -1,9 +1,9 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
+    "name": "muazzam/filament-pro-starter",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
-    "keywords": ["laravel", "framework"],
+    "description": "A professional Laravel + Filament starter kit with Shield, 2FA, Passkeys, and pre-configured admin setup.",
+    "keywords": ["laravel", "filament", "starter", "admin", "shield", "boilerplate"],
     "license": "MIT",
     "require": {
         "php": "^8.2",
