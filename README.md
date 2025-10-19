@@ -132,6 +132,13 @@ This starter includes:
 
 After running your migrations, simply execute:
 
+Run this to generate permissions and policies
+
+```bash
+php artisan shield:generate --all
+```
+Then generate a super user
+
 ```bash
 php artisan shield:super-admin
 ```
